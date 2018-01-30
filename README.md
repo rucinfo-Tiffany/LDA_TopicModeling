@@ -8,3 +8,7 @@
 * 5Optional调参过程
 
 * 附录：sklearn LDA API 中文解释
+
+P.S. 原代码基于anaconda2编写，依赖python2，nltk以及sklearn，可根据实际情况转换为python3.
+python2转python3可利用现成工具
+` py 2to3.py -w f:/xxxx/xxx.py `
