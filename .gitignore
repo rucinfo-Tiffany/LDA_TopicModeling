@@ -1,0 +1,6 @@
+*.bak
+*.pyc
+*.json
+*.log
+*VSCODE*
+*DS*
